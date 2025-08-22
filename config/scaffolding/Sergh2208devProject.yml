@@ -8,7 +8,7 @@ packages:
   gitUsername: ArtiKhareIBM
   gitBranch: main
 - name: upperfspackage
-  gitServerName: RAHS_IBMBitbucket
+  gitServerName: srcCtrl_shared_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
-  gitUsername: rahulsingh68
+  gitUsername: artikhare
   gitBranch: master
